@@ -1,0 +1,12 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01
+Analyzed List:	H3K36me3_H9.intersect_with_DeepZ.bed.genes_uniq.txt (Homo sapiens)H3K36me3_H9.intersect_with_DeepZ.bed.genes.txt (Homo sapiens)	There are duplicate IDs in the file. The unique set of IDs will be used.
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20595)	H3K36me3_H9.intersect_with_DeepZ.bed.genes_uniq.txt (429)	H3K36me3_H9.intersect_with_DeepZ.bed.genes_uniq.txt (expected)	H3K36me3_H9.intersect_with_DeepZ.bed.genes_uniq.txt (over/under)	H3K36me3_H9.intersect_with_DeepZ.bed.genes_uniq.txt (fold Enrichment)	H3K36me3_H9.intersect_with_DeepZ.bed.genes_uniq.txt (raw P-value)	H3K36me3_H9.intersect_with_DeepZ.bed.genes_uniq.txt (FDR)	H3K36me3_H9.intersect_with_DeepZ.bed.genes.txt (0)	H3K36me3_H9.intersect_with_DeepZ.bed.genes.txt (expected)	H3K36me3_H9.intersect_with_DeepZ.bed.genes.txt (over/under)	H3K36me3_H9.intersect_with_DeepZ.bed.genes.txt (fold Enrichment)	H3K36me3_H9.intersect_with_DeepZ.bed.genes.txt (raw P-value)	H3K36me3_H9.intersect_with_DeepZ.bed.genes.txt (FDR)
